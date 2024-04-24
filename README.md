@@ -1,1 +1,2 @@
 The "Yet Another Drum Machine" (YADM) is a dynamic and user-friendly drum machine application, written in JavaScript. It allows users to create, their own unique drum patterns.
+https://www.pasqualelangella.com/en/2014/05/24/drum-machine-html5-experiment/
